@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['lupus-detected']
+
+roboflow:
+  workspace: nour-zhvh3
+  project: lupus-detections
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/nour-zhvh3/lupus-detections/dataset/1
