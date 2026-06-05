@@ -27,6 +27,53 @@ LupiScan is designed to support the early screening of **Systemic Lupus Erythema
 
 ---
 
+## Installation
+
+### Prerequisites
+
+Make sure you have **Python 3.8+** installed on your system.
+
+### Required Dependencies
+
+The project requires the following Python packages:
+
+```python
+import cv2          # OpenCV - Computer Vision
+import numpy as np  # NumPy - Numerical Processing
+import subprocess   # Standard Library - No installation needed
+from ultralytics import YOLO  # YOLOv8 Object Detection
+```
+
+### Install Packages
+
+Run the following command to install all required packages at once:
+
+```bash
+pip install opencv-python numpy ultralytics
+```
+
+Or install them individually:
+
+```bash
+pip install opencv-python   # OpenCV for image processing
+pip install numpy           # NumPy for numerical operations
+pip install ultralytics     # YOLOv8 by Ultralytics
+```
+
+> **Note:** `subprocess` is part of Python's standard library and does **not** require installation.
+
+### For Raspberry Pi
+
+If you are deploying on a Raspberry Pi, use the following instead of `opencv-python`:
+
+```bash
+pip install opencv-python-headless numpy ultralytics
+```
+
+> `opencv-python-headless` is recommended for embedded/server environments where a display is not available.
+
+---
+
 ## Project Workflow
 
 ### 1. Dataset Collection
@@ -256,7 +303,7 @@ Applied augmentation techniques that simulate real-world conditions to improve m
 
 📧 Email: aljufoutrama@gmail.com
 
-🔗 GitHub: https://github.com/Rama-AlJufout
+🔗 GitHub: https://github.com/Rama-AlJufaut
 
 ---
 
