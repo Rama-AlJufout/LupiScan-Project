@@ -225,6 +225,7 @@ Applied augmentation techniques that simulate real-world conditions to improve m
 ### Hardware Design - Raspberry Pi Camera Module
 
 ![Raspberry Pi Camera Module](images/RaspberryPi-Camera-Module.jpeg)
+
 ---
 
 ## Version Control
