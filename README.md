@@ -208,11 +208,11 @@ Applied augmentation techniques that simulate real-world conditions to improve m
 
 ### Dataset Samples
 
-![Dataset Samples](images/Dataset Sample.jpg)
+![Dataset Samples](images/Dataset-Sample.jpg)
 
 ### Augmentation Examples
 
-![Annotation Examples](images/Augmentation Example.jpg)
+![Annotation Examples](images/Augmentation-Example.jpg)
 
 ### Real-Time Detection
 
@@ -220,12 +220,11 @@ Applied augmentation techniques that simulate real-world conditions to improve m
 
 ### Hardware Design - Raspberry Pi 4 Model B
 
-![Raspberry Pi 4 Model B](images/Raspberry Pi 4 Model B.jpeg)
+![Raspberry Pi 4 Model B](images/RaspberryPi4-ModelB.jpeg)
 
 ### Hardware Design - Raspberry Pi Camera Module
 
-![Raspberry Pi Camera Module](images/Raspberry Pi Camera Module.jpeg)
-
+![Raspberry Pi Camera Module](images/RaspberryPi-Camera-Module.jpeg)
 ---
 
 ## Version Control
